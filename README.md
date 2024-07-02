@@ -2,8 +2,8 @@
 !-->
 ## GitHub Activity and Language Stats
 <div style="display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuanyuPhy" alt="Top Langs" style="width: 21%; margin-right: 5%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=KuanyuPhy&count_private=true&include_all_commits=true" alt="KuanyuPhy's GitHub stats" style="width: 46%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=KuanyuPhy&count_private=true&include_all_commits=true" alt="KuanyuPhy's GitHub stats" style="width: 66%; margin-right: 2%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuanyuPhy" alt="Top Langs" style="width: 30%;">
 </div>
 
 
